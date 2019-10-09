@@ -44,7 +44,7 @@
   "browser": "lib/browser.js",
   "dependencies": {
     "asn1.js": "=4.5.2",
-    "ducatuscore-lib": "git+ssh://git@github.com/DUCATUS-revival/ducatuscore-lib.git",
+    "ducatuscore-lib": "git://github.com/DUCATUS-revival/ducatuscore-lib.git",
     "jsrsasign": "=5.0.10",
     "protobufjs": "=5.0.1"
   },
